@@ -1,0 +1,1 @@
+Hello! I made this repo for a small problem I solved back when I was trying to get a grip of how to code in python! It taught me back propogation, which was a concept that I struggled with in the past
